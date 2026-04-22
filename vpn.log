@@ -1,0 +1,374 @@
+[16:08:09] Запуск: d:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:P3mhcc7tgIQ0ayiFzQ4m6Yj3QgwUkgGkeV6V1MXRq8Q=
+[16:08:09] POST https://astana-s2.goart.work/
+[16:08:10] Connected to 5.180.46.52:443
+[16:08:10] SSL negotiation with astana-s2.goart.work
+[16:08:11] Server certificate verify failed: unable to get local issuer certificate
+[16:08:11] None of the 1 fingerprint(s) specified via --servercert match server's certificate: pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:08:11] SSL connection failure
+[16:08:11] 15192:error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed:ssl/statem/statem_clnt.c:1913:
+[16:08:11] Failed to open HTTPS connection to astana-s2.goart.work
+[16:08:11] Failed to complete authentication
+[16:08:41] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:P3mhcc7tgIQ0ayiFzQ4m6Yj3QgwUkgGkeV6V1MXRq8Q=
+[16:08:41] POST https://astana-s2.goart.work/
+[16:08:43] Connected to 5.180.46.52:443
+[16:08:43] SSL negotiation with astana-s2.goart.work
+[16:08:44] Server certificate verify failed: unable to get local issuer certificate
+[16:08:44] None of the 1 fingerprint(s) specified via --servercert match server's certificate: pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:08:44] SSL connection failure
+[16:08:44] 14148:error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed:ssl/statem/statem_clnt.c:1913:
+[16:08:44] Failed to open HTTPS connection to astana-s2.goart.work
+[16:08:44] Failed to complete authentication
+[16:09:38] Запуск: d:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:P3mhcc7tgIQ0ayiFzQ4m6Yj3QgwUkgGkeV6V1MXRq8Q=
+[16:09:38] POST https://astana-s2.goart.work/
+[16:09:39] Connected to 5.180.46.52:443
+[16:09:39] SSL negotiation with astana-s2.goart.work
+[16:09:39] Server certificate verify failed: unable to get local issuer certificate
+[16:09:39] None of the 1 fingerprint(s) specified via --servercert match server's certificate: pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:09:39] SSL connection failure
+[16:09:39] 12152:error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed:ssl/statem/statem_clnt.c:1913:
+[16:09:39] Failed to open HTTPS connection to astana-s2.goart.work
+[16:09:39] Failed to complete authentication
+[16:11:42] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:11:42] POST https://astana-s2.goart.work/
+[16:11:42] Connected to 5.180.46.52:443
+[16:11:42] SSL negotiation with astana-s2.goart.work
+[16:11:42] Server certificate verify failed: unable to get local issuer certificate
+[16:11:42] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:11:43] XML POST enabled
+[16:11:43] POST https://astana-s2.goart.work/auth
+[16:11:43] XML POST enabled
+[16:11:43] POST https://astana-s2.goart.work/auth
+[16:11:43] POST https://astana-s2.goart.work/auth
+[16:11:43] Please enter your username.
+[16:11:43] Group: [all]:all
+[16:11:43] Please enter your username.
+[16:11:43] Please enter your password.
+[16:11:43] Login failed.
+[16:11:43] Please enter your password.
+[16:13:26] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:13:26] POST https://astana-s2.goart.work/
+[16:13:26] Connected to 5.180.46.52:443
+[16:13:26] SSL negotiation with astana-s2.goart.work
+[16:13:27] Server certificate verify failed: unable to get local issuer certificate
+[16:13:27] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:13:27] XML POST enabled
+[16:13:27] POST https://astana-s2.goart.work/auth
+[16:13:27] XML POST enabled
+[16:13:27] POST https://astana-s2.goart.work/auth
+[16:13:28] POST https://astana-s2.goart.work/auth
+[16:13:28] Please enter your username.
+[16:13:28] Group: [all]:all
+[16:13:28] Please enter your username.
+[16:13:28] Please enter your password.
+[16:13:28] Login failed.
+[16:13:28] Please enter your password.
+[16:19:19] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:19:19] POST https://astana-s2.goart.work/
+[16:19:19] Connected to 5.180.46.52:443
+[16:19:19] SSL negotiation with astana-s2.goart.work
+[16:19:20] Server certificate verify failed: unable to get local issuer certificate
+[16:19:20] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:19:20] XML POST enabled
+[16:19:20] POST https://astana-s2.goart.work/auth
+[16:19:20] XML POST enabled
+[16:19:20] POST https://astana-s2.goart.work/auth
+[16:19:20] POST https://astana-s2.goart.work/auth
+[16:19:20] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:19:20] CSTP connected. DPD 90, Keepalive 32400
+[16:19:20] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:19:20] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:19:20] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:19:20] ЋиЁЎЄ  ўў®¤ : ЌҐ г¤ Ґвбп ­ ©вЁ д ©« бжҐ­ аЁп "D:\Python\goartvpn\bin\vpnc-script-win.js".
+[16:19:20] Please enter your username.
+[16:19:20] Group: [all]:all
+[16:19:20] Please enter your username.
+[16:19:20] Please enter your password.
+[16:19:20] Script 'D:\Python\goartvpn\bin\vpnc-script-win.js' returned error 1
+[16:19:20] Failed to spawn script 'D:\Python\goartvpn\bin\vpnc-script-win.js' for pre-init: ЌҐўҐа­ п дг­ЄжЁп.
+[16:19:21] 0: Using existing driver 0.14
+[16:19:21] 0: Creating adapter
+[16:19:21] Using Wintun device 'vpn0', index 52
+[16:19:21] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:19:21]   encounter problems, install the TAP-Windows driver instead. See
+[16:19:21]   https://www.infradead.org/openconnect/building.html
+[16:19:21] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:19:21] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:19:21] ЋиЁЎЄ  ўў®¤ : ЌҐ г¤ Ґвбп ­ ©вЁ д ©« бжҐ­ аЁп "D:\Python\goartvpn\bin\vpnc-script-win.js".
+[16:19:21] Script 'D:\Python\goartvpn\bin\vpnc-script-win.js' returned error 1
+[16:19:21] Failed to spawn script 'D:\Python\goartvpn\bin\vpnc-script-win.js' for connect: ЌҐўҐа­ п дг­ЄжЁп.
+[16:23:41] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:23:41] POST https://astana-s2.goart.work/
+[16:23:41] Failed to connect to 5.180.46.52:443: ‘¤Ґ« ­  Ї®ЇлвЄ  ¤®бвгЇ  Є б®ЄҐвг ¬Ґв®¤®¬, § ЇаҐйҐ­­л¬ Їа ў ¬Ё ¤®бвгЇ .
+[16:23:41] Failed to connect to host astana-s2.goart.work
+[16:23:41] Failed to open HTTPS connection to astana-s2.goart.work
+[16:23:41] Failed to complete authentication
+[16:25:32] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:25:32] POST https://astana-s2.goart.work/
+[16:25:33] Connected to 5.180.46.52:443
+[16:25:33] SSL negotiation with astana-s2.goart.work
+[16:25:33] Server certificate verify failed: unable to get local issuer certificate
+[16:25:33] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:25:33] XML POST enabled
+[16:25:33] POST https://astana-s2.goart.work/auth
+[16:25:33] XML POST enabled
+[16:25:33] POST https://astana-s2.goart.work/auth
+[16:25:33] POST https://astana-s2.goart.work/auth
+[16:25:33] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:25:33] CSTP connected. DPD 90, Keepalive 32400
+[16:25:33] Configured as 10.100.185.47, with SSL connected and DTLS disabled
+[16:25:33] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:25:33] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:25:34] Please enter your username.
+[16:25:34] Group: [all]:all
+[16:25:34] Please enter your username.
+[16:25:34] Please enter your password.
+[16:25:34] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:25:34] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:25:34] 0: Spawning native process to remove instance
+[16:25:34] 0: Removed orphaned adapter "vpn0"
+[16:25:34] 0: Using existing driver 0.14
+[16:25:34] 0: Creating adapter
+[16:25:34] Using Wintun device 'vpn0', index 52
+[16:25:34] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:25:34]   encounter problems, install the TAP-Windows driver instead. See
+[16:25:34]   https://www.infradead.org/openconnect/building.html
+[16:25:34] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:25:34] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:25:34] Default/Internet gateway  : 192.168.1.1
+[16:25:34] VPN Interface Identifiers : "vpn0" / 52
+[16:25:34] Public VPN Gateway Address: 5.180.46.52
+[16:25:34] Internal Legacy IP Address: 10.100.185.47
+[16:25:34] Internal Legacy IP Netmask: 255.255.0.0
+[16:25:34] MTU: 1372
+[16:25:34] Configuring explicit route to VPN gateway 5.180.46.52
+[16:25:34] done.
+[16:25:34] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:25:35] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:25:35] done.
+[16:25:35] Configuring Legacy IP networks:
+[16:25:35] Legacy IP route configuration done.
+[16:33:45] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:33:45] POST https://astana-s2.goart.work/
+[16:33:45] Connected to 5.180.46.52:443
+[16:33:45] SSL negotiation with astana-s2.goart.work
+[16:33:45] Server certificate verify failed: unable to get local issuer certificate
+[16:33:45] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:33:46] XML POST enabled
+[16:33:46] POST https://astana-s2.goart.work/auth
+[16:33:46] XML POST enabled
+[16:33:46] POST https://astana-s2.goart.work/auth
+[16:33:46] POST https://astana-s2.goart.work/auth
+[16:33:47] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:33:47] CSTP connected. DPD 90, Keepalive 32400
+[16:33:47] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:33:47] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:33:47] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:33:47] Please enter your username.
+[16:33:47] Group: [all]:all
+[16:33:47] Please enter your username.
+[16:33:47] Please enter your password.
+[16:33:47] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:33:47] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:33:47] 0: Spawning native process to remove instance
+[16:33:47] 0: Removed orphaned adapter "vpn0"
+[16:33:47] 0: Using existing driver 0.14
+[16:33:47] 0: Creating adapter
+[16:33:47] Using Wintun device 'vpn0', index 52
+[16:33:47] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:33:47]   encounter problems, install the TAP-Windows driver instead. See
+[16:33:47]   https://www.infradead.org/openconnect/building.html
+[16:33:47] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:33:47] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:33:47] Default/Internet gateway  : 192.168.1.1
+[16:33:47] VPN Interface Identifiers : "vpn0" / 52
+[16:33:47] Public VPN Gateway Address: 5.180.46.52
+[16:33:47] Internal Legacy IP Address: 10.100.127.209
+[16:33:47] Internal Legacy IP Netmask: 255.255.0.0
+[16:33:47] MTU: 1372
+[16:33:48] Configuring explicit route to VPN gateway 5.180.46.52
+[16:33:48] done.
+[16:33:48] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:33:48] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:33:48] done.
+[16:33:48] Configuring Legacy IP networks:
+[16:33:48] Legacy IP route configuration done.
+[16:36:54] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:36:54] POST https://astana-s2.goart.work/
+[16:36:54] Connected to 5.180.46.52:443
+[16:36:54] SSL negotiation with astana-s2.goart.work
+[16:36:55] Server certificate verify failed: unable to get local issuer certificate
+[16:36:55] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:36:55] XML POST enabled
+[16:36:55] POST https://astana-s2.goart.work/auth
+[16:36:55] XML POST enabled
+[16:36:55] POST https://astana-s2.goart.work/auth
+[16:36:55] POST https://astana-s2.goart.work/auth
+[16:36:56] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:36:56] CSTP connected. DPD 90, Keepalive 32400
+[16:36:56] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:36:56] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:36:56] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:36:56] Please enter your username.
+[16:36:56] Group: [all]:all
+[16:36:56] Please enter your username.
+[16:36:56] Please enter your password.
+[16:36:56] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:36:56] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:36:56] 0: Spawning native process to remove instance
+[16:36:56] 0: Removed orphaned adapter "vpn0"
+[16:36:56] 0: Using existing driver 0.14
+[16:36:56] 0: Creating adapter
+[16:36:56] Using Wintun device 'vpn0', index 52
+[16:36:56] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:36:56]   encounter problems, install the TAP-Windows driver instead. See
+[16:36:56]   https://www.infradead.org/openconnect/building.html
+[16:36:56] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:36:56] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:36:56] Default/Internet gateway  : 192.168.1.1
+[16:36:56] VPN Interface Identifiers : "vpn0" / 52
+[16:36:56] Public VPN Gateway Address: 5.180.46.52
+[16:36:56] Internal Legacy IP Address: 10.100.127.209
+[16:36:56] Internal Legacy IP Netmask: 255.255.0.0
+[16:36:56] MTU: 1372
+[16:36:56] Configuring explicit route to VPN gateway 5.180.46.52
+[16:36:56] done.
+[16:36:56] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:36:57] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:36:57] done.
+[16:36:57] Configuring Legacy IP networks:
+[16:36:57] Legacy IP route configuration done.
+[16:39:14] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:39:14] POST https://astana-s2.goart.work/
+[16:39:15] Connected to 5.180.46.52:443
+[16:39:15] SSL negotiation with astana-s2.goart.work
+[16:39:15] Server certificate verify failed: unable to get local issuer certificate
+[16:39:15] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:39:15] XML POST enabled
+[16:39:15] POST https://astana-s2.goart.work/auth
+[16:39:15] XML POST enabled
+[16:39:15] POST https://astana-s2.goart.work/auth
+[16:39:16] POST https://astana-s2.goart.work/auth
+[16:39:16] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:39:16] CSTP connected. DPD 90, Keepalive 32400
+[16:39:16] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:39:16] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:39:16] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:39:16] Please enter your username.
+[16:39:16] Group: [all]:all
+[16:39:16] Please enter your username.
+[16:39:16] Please enter your password.
+[16:39:16] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:39:16] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:39:16] 0: Spawning native process to remove instance
+[16:39:16] 0: Removed orphaned adapter "vpn0"
+[16:39:16] 0: Using existing driver 0.14
+[16:39:16] 0: Creating adapter
+[16:39:16] Using Wintun device 'vpn0', index 52
+[16:39:16] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:39:16]   encounter problems, install the TAP-Windows driver instead. See
+[16:39:16]   https://www.infradead.org/openconnect/building.html
+[16:39:16] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:39:16] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:39:17] Default/Internet gateway  : 192.168.1.1
+[16:39:17] VPN Interface Identifiers : "vpn0" / 52
+[16:39:17] Public VPN Gateway Address: 5.180.46.52
+[16:39:17] Internal Legacy IP Address: 10.100.127.209
+[16:39:17] Internal Legacy IP Netmask: 255.255.0.0
+[16:39:17] MTU: 1372
+[16:39:17] Configuring explicit route to VPN gateway 5.180.46.52
+[16:39:17] done.
+[16:39:17] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:39:17] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:39:17] done.
+[16:39:17] Configuring Legacy IP networks:
+[16:39:17] Legacy IP route configuration done.
+[16:41:11] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:41:11] POST https://astana-s2.goart.work/
+[16:41:11] Connected to 5.180.46.52:443
+[16:41:11] SSL negotiation with astana-s2.goart.work
+[16:41:12] Server certificate verify failed: unable to get local issuer certificate
+[16:41:12] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:41:12] XML POST enabled
+[16:41:12] POST https://astana-s2.goart.work/auth
+[16:41:12] XML POST enabled
+[16:41:12] POST https://astana-s2.goart.work/auth
+[16:41:13] POST https://astana-s2.goart.work/auth
+[16:41:13] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:41:13] CSTP connected. DPD 90, Keepalive 32400
+[16:41:13] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:41:13] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:41:13] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:41:13] Please enter your username.
+[16:41:13] Group: [all]:all
+[16:41:13] Please enter your username.
+[16:41:13] Please enter your password.
+[16:41:13] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:41:13] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:41:13] 0: Spawning native process to remove instance
+[16:41:13] 0: Removed orphaned adapter "vpn0"
+[16:41:13] 0: Using existing driver 0.14
+[16:41:13] 0: Creating adapter
+[16:41:13] Using Wintun device 'vpn0', index 52
+[16:41:13] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:41:13]   encounter problems, install the TAP-Windows driver instead. See
+[16:41:13]   https://www.infradead.org/openconnect/building.html
+[16:41:13] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:41:13] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:41:13] Default/Internet gateway  : 192.168.1.1
+[16:41:13] VPN Interface Identifiers : "vpn0" / 52
+[16:41:13] Public VPN Gateway Address: 5.180.46.52
+[16:41:13] Internal Legacy IP Address: 10.100.127.209
+[16:41:13] Internal Legacy IP Netmask: 255.255.0.0
+[16:41:13] MTU: 1372
+[16:41:14] Configuring explicit route to VPN gateway 5.180.46.52
+[16:41:14] done.
+[16:41:14] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:41:14] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:41:14] done.
+[16:41:14] Configuring Legacy IP networks:
+[16:41:14] Legacy IP route configuration done.
+[16:42:38] Запуск: D:\Python\goartvpn\bin\openconnect.exe astana-s2.goart.work:443 --user=KLUveAUHqQ --passwd-on-stdin --interface=vpn0 --non-inter --no-proxy --reconnect-timeout=3 --no-dtls --disable-ipv6 --servercert=pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=
+[16:42:38] POST https://astana-s2.goart.work/
+[16:42:38] Connected to 5.180.46.52:443
+[16:42:38] SSL negotiation with astana-s2.goart.work
+[16:42:38] Server certificate verify failed: unable to get local issuer certificate
+[16:42:39] Connected to HTTPS on astana-s2.goart.work with ciphersuite TLSv1.2-ECDHE-RSA-AES128-GCM-SHA256
+[16:42:39] XML POST enabled
+[16:42:39] POST https://astana-s2.goart.work/auth
+[16:42:39] XML POST enabled
+[16:42:39] POST https://astana-s2.goart.work/auth
+[16:42:39] POST https://astana-s2.goart.work/auth
+[16:42:39] Got CONNECT response: HTTP/1.1 200 CONNECTED
+[16:42:39] CSTP connected. DPD 90, Keepalive 32400
+[16:42:39] Configured as 10.100.127.209, with SSL connected and DTLS disabled
+[16:42:39] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:42:39] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:42:39] Please enter your username.
+[16:42:39] Group: [all]:all
+[16:42:39] Please enter your username.
+[16:42:39] Please enter your password.
+[16:42:39] 2: Failed to find matching adapter name: ??????? ?? ??????. (Code 0x00000490)
+[16:42:39] Could not open Wintun adapter 'vpn0': ќ«Ґ¬Ґ­в ­Ґ ­ ©¤Ґ­.
+[16:42:39] 0: Spawning native process to remove instance
+[16:42:39] 0: Removed orphaned adapter "vpn0"
+[16:42:39] 0: Using existing driver 0.14
+[16:42:39] 0: Creating adapter
+[16:42:39] Using Wintun device 'vpn0', index 52
+[16:42:39] WARNING: Support for Wintun is experimental and may be unstable. If you
+[16:42:39]   encounter problems, install the TAP-Windows driver instead. See
+[16:42:39]   https://www.infradead.org/openconnect/building.html
+[16:42:39] ‘ҐаўҐа бжҐ­ аЁҐў Windows (Microsoft R) ўҐабЁп 5.812
+[16:42:39] Copyright (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв 1996-2006, ўбҐ Їа ў  § йЁйҐ­л.
+[16:42:39] Default/Internet gateway  : 192.168.1.1
+[16:42:39] VPN Interface Identifiers : "vpn0" / 52
+[16:42:39] Public VPN Gateway Address: 5.180.46.52
+[16:42:39] Internal Legacy IP Address: 10.100.127.209
+[16:42:39] Internal Legacy IP Netmask: 255.255.0.0
+[16:42:39] MTU: 1372
+[16:42:40] Configuring explicit route to VPN gateway 5.180.46.52
+[16:42:40] done.
+[16:42:40] Configuring "vpn0" / 52 interface for Legacy IP...
+[16:42:40] Configured 2 DNS servers: 8.8.8.8 1.1.1.1
+[16:42:40] done.
+[16:42:40] Configuring Legacy IP networks:
+[16:42:40] Legacy IP route configuration done.

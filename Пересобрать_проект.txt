@@ -1,0 +1,4 @@
+cd C:\temp\vpn\goartvpn
+pyinstaller --onedir --noconsole --noconfirm --name "GoArtVPN" --clean goartvpn.py
+Copy-Item -Recurse -Force "bin" "dist\GoArtVPN\_internal\bin"
+Copy-Item -Force "config.json" "dist\GoArtVPN\config.json"
