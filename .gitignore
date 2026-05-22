@@ -1,0 +1,11 @@
+# Игнорируем файлы с реальными паролями
+.env
+config.json
+
+# Игнорируем логи и временные батники
+vpn.log
+_routes.bat
+.dns_iface
+
+# Кэш Python
+__pycache__/

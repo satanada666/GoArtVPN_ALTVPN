@@ -8,6 +8,10 @@ import subprocess
 from pathlib import Path
 from datetime import datetime
 
+# Подключаем библиотеку для работы с .env
+# Перед запуском выполните в терминале: pip install python-dotenv
+from dotenv import load_dotenv
+
 from PyQt6.QtWidgets import (
     QApplication, QSystemTrayIcon, QMenu, QWidget, QVBoxLayout,
     QHBoxLayout, QLabel, QPushButton, QComboBox, QLineEdit,
@@ -31,6 +35,9 @@ CONFIG_FILE = APP_DIR / "config.json"
 LOG_FILE    = APP_DIR / "vpn.log"
 OPENCONNECT_EXE = BIN_DIR / "openconnect.exe"
 
+# Загружаем переменные из .env файла, если он существует рядом со скриптом
+load_dotenv(dotenv_path=APP_DIR / ".env")
+
 # ──────────────────────────────────────────────
 #  КОНФИГ
 # ──────────────────────────────────────────────
@@ -38,8 +45,8 @@ OPENCONNECT_EXE = BIN_DIR / "openconnect.exe"
 DEFAULT_CONFIG = {
     "server":            "valletta-s1.goart.work",
     "port":              443,
-    "user":              "KLUveAUHqQ",
-    "password":          "satand@mail.ru",
+    "user":              "VPN_USER",
+    "password":          "VPN_PASSWORD",
     "interface":         "vpn0",
     "servercert":        "pin-sha256:NKP0RBSQJO8kBJxljfbAjr/yyKgRuy1wh76Mijdhpz0=",
     "no_dtls":           True,
