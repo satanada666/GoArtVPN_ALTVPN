@@ -7,5 +7,10 @@ vpn.log
 _routes.bat
 .dns_iface
 
+# Игнорируем папки сборки и тяжелые архивы
+dist/
+build/
+*.7z
+
 # Кэш Python
 __pycache__/
